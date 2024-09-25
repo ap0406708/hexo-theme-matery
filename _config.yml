@@ -1,6 +1,6 @@
 deploy:
   type: git
-  repo: https://github.com/ap0406708/hexo-theme-matery
+  repo: https://github.com/ap0406708/hexo-theme-matery.git
   branch: develop
   
 # main menu navigation url and icon
